@@ -1,5 +1,6 @@
 # to-do-list
-<img src="[이미지주소.png](https://user-images.githubusercontent.com/129400944/232776128-8698adf3-2232-4e37-8cde-87271229e286.png)" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/129400944/232780156-2f69b367-0bea-46b3-8595-87ac362f1e6a.png" width="200" height="400"/>
+
 오늘 할일을 추가하거나 삭제 할수있음
 
 * 데모앱: https://simseungyeol-todolist.netlify.app
