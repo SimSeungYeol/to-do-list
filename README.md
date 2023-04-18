@@ -1,5 +1,5 @@
 # to-do-list
-<img src="https://user-images.githubusercontent.com/129400944/232780156-2f69b367-0bea-46b3-8595-87ac362f1e6a.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/129400944/232780156-2f69b367-0bea-46b3-8595-87ac362f1e6a.png" width="800" height="400"/>
 
 오늘 할일을 추가하거나 삭제 할수있음
 
