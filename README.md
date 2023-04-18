@@ -3,7 +3,7 @@
 
 오늘 할일을 추가하거나 삭제 할수있음
 
-* 데모앱: <a>simseungyeol-todolist.netlify.app</a>
+* 데모앱: [<a>simseungyeol-todolist.netlify.app</a>](https://simseungyeol-todolist.netlify.app/)
 
 <h1>기능</h1>
 
