@@ -3,9 +3,10 @@
 
 오늘 할일을 추가하거나 삭제 할수있음
 
-* 데모앱: simseungyeol-todolist.netlify.app
+* 데모앱: <a>simseungyeol-todolist.netlify.app</a>
 
 <h1>기능</h1>
+
 * 유저는 오늘 할일을 추가할수 있다.
  
 * 체크기능과 삭제기능이 있다.
@@ -22,6 +23,7 @@
 
 
 <h1>사용한 기술</h1>
+
 * HTML
 
 * CSS
