@@ -1,0 +1,121 @@
+body {
+    margin:0px;
+    background-image: url(image/background.jpeg);
+    background-size: cover;
+}
+
+.container {
+    max-width: 800px;
+    font-family: 'Raleway', sans-serif;
+    background-color: white;
+    min-height: 100vh;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-top:10px solid green;
+    border-bottom:10px solid green;
+    height: 100%
+}
+
+.task-area { 
+    border: 1px solid lightgrey;
+    margin-top: 2em;
+}
+
+.task-tabs{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    position: relative;
+}
+.task-tabs div {
+    padding: 1em;
+}
+
+#under-line {
+    width: 48px;
+    height: 5px;
+    background-color: skyblue;
+    position: absolute;
+    top: 52px;
+    left: 0px;
+    padding: 0px;
+    transition: 0.5s;
+}
+
+.task {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+    position: relative;
+}
+
+.task span {
+    padding: 1em;
+}
+
+.button-box {
+    display: flex;
+}
+
+.task-done {
+    text-decoration: line-through;
+    background-color: lightgray;
+    transition: 0.5s;
+  }
+
+.task-tabs div {
+    cursor: pointer;
+}
+
+div a {
+    text-decoration: none;
+    color: black;
+}
+
+#add-button {
+    border: none;
+    background-color: skyblue;
+    width:1.7em;
+    margin-left: 10px;
+}
+
+#task-input {
+    transition: padding-top 0.2s ease, margin-top 0.2s ease;
+    width: 60%;
+    border: 1px solid skyblue;
+}
+
+.button-box button {
+  height: 100%;
+  border: none;
+  width: 5em;
+  margin: 0;
+  background-color: white;
+  transition: 0.5s;
+}
+.button-box button :active {
+  position: relative;
+  top: 2px;
+}
+
+.button-box button:first-child:hover {
+  background-color: greenyellow;
+}
+.button-box button:nth-child(2):hover {
+  background-color: rgb(255, 0, 0, 0.3);
+}
+
+.fa-check {
+    color: limegreen;
+  }
+  
+  .fa-trash {
+    color: red;
+  }
+  .fa-undo-alt {
+    color: lightslategray;
+  }
+
+  .move {
+    display: flex;
+    justify-content: center;
+  }
